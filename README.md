@@ -8,13 +8,12 @@
 ---
 
 # 💫 About Me
-- 🚀 Data Scientist focused on Deep Learning, NLP, and LLM Fine-Tuning  
+- 🚀 AI/ML Engineer focused on Deep Learning, NLP, and LLM Fine-Tuning  
 - 🧩 I build end-to-end ML systems: data → model → evaluation → deployment  
-- 🧠 Passionate about Generative AI, RAG architectures, vector databases & modern LLM tooling  
-- 📚 Currently diving deeper into RAG architectures, LLM fine-tuning techniques, and agentic AI workflows.
-- 🎯 I love transforming ideas into real AI apps using Streamlit, FastAPI & cloud platforms  
-
-
+- 🧠 Passionate about LLMs , RAG architectures, vector databases & Agentic AI  
+- 📚 Currently diving deeper into RAG architectures, LLM fine-tuning techniques, and Agentic AI workflows.
+- 🎯 I love transforming ideas into real-world AI applications
+  
 ---
 
 # 🌐 Socials
