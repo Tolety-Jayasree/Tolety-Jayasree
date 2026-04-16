@@ -1,12 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Jaya Sree Tolety</span></h1>
 <h3 align="center">✨ AI/ML Engineer | Backend Developer ✨</h3>
-<h2 align="center" style="background: linear-gradient(90deg, #38BDF8, #8B5CF6, #22C55E, #F59E0B); -webkit-background-clip: text; color: transparent;">
-  Machine Learning | Deep Learning | NLP <br/>
-  LLMs | RAG Systems | Agentic AI <br/>
-  Building AI Apps & End-to-End Pipelines <br/>
-  Always Learning New Things!
-</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;LLMs+%7C+RAG+Systems+%7C+Agentic+AI;Building+AI+Apps+%26+End-to-End+Pipelines;Always+Learning+New+Things!">
 </p>
