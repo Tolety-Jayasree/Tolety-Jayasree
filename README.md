@@ -40,6 +40,11 @@
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-22C55E?style=for-the-badge&logo=robotframework&logoColor=white)
 
+### 🚀 Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0EA5E9?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white)
+
 ### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-FF6F61?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-00B8D9?style=for-the-badge&logo=numpy&logoColor=white)
