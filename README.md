@@ -73,7 +73,6 @@ RAG + LLaMA 70B + FAISS + automated web scraping + Streamlit UI.
 ### 🔹 **Image Caption Generator**
 VGG16 + LSTM + BLEU evaluation + Streamlit app with TTS.
 
----
 <!-- END YOUTUBE-CARDS -->
 
 
