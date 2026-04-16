@@ -31,9 +31,9 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧬 AI / ML
-![Machine Learning](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Machine Learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Deep Learning&logoColor=white)
-![NLP](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=NLP&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### 🤖 Generative AI & LLMs
 ![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
