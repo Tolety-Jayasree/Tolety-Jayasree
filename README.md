@@ -26,9 +26,9 @@
 
 # 🧠 Skills & Tools
 ### 🚀 Programming & ML
-![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=openjdk&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧬 AI / ML
 ![Machine Learning](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Machine Learning&logoColor=white)
