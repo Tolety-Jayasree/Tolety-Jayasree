@@ -74,26 +74,6 @@ RAG + LLaMA 70B + FAISS + automated web scraping + Streamlit UI.
 VGG16 + LSTM + BLEU evaluation + Streamlit app with TTS.
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Tolety-Jayasree&theme=dark&hide_border=false&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Tolety-Jayasree&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolety-Jayasree&theme=dark&hide_border=false&layout=compact)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tolety-Jayasree&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
 <!-- END YOUTUBE-CARDS -->
 
 
