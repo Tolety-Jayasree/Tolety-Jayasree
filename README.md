@@ -1,9 +1,9 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Nikunj Mishra</span></h1>
-<h3 align="center">✨ Data Scientist | Generative AI & LLM Specialist ✨</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Jaya Sree Tolety</span></h1>
+<h3 align="center">✨ AI/ML Engineer | Backend Developer ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1AF7FF&center=true&vCenter=true&width=550&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+LLMs+%7C+RAG+Systems;Building+AI+Apps+%26+End-to-End+Pipelines;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1AF7FF&center=true&vCenter=true&width=550&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;LLMs+%7C+RAG+Systems+%7C+Agentic+AI;Building+AI+Apps+%26+End-to-End+Pipelines;Always+Learning+New+Things!">
 </p>
 
 ---
