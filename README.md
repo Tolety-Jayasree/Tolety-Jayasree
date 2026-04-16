@@ -36,16 +36,16 @@
 ![NLP](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=NLP&logoColor=white)
 
 ### 🤖 Generative AI & LLMs
-![LLM](https://img.shields.io/badge/HuggingFace-FCC21B?style=for-the-badge&logo=huggingface&logoColor=white)
-![RAG](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/LangGraph-7952B3?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-22C55E?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-215732?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0F9D58?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### 🗂 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
