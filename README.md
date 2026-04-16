@@ -8,11 +8,11 @@
 ---
 
 # 💫 About Me
-- 🚀 AI/ML Engineer focused on Deep Learning, NLP, and LLM Fine-Tuning  
-- 🧩 I build end-to-end ML systems: data → model → evaluation → deployment  
-- 🧠 Passionate about LLMs , RAG architectures, vector databases & Agentic AI  
-- 📚 Currently diving deeper into RAG architectures, LLM fine-tuning techniques, and Agentic AI workflows.
-- 🎯 I love transforming ideas into real-world AI applications
+- 🚀 AI/ML Engineer with 3+ years of experience building production AI systems
+- 🤖 Specialized in LLMs, RAG architectures, and Agentic AI workflows
+- ⚡ Built scalable end-to-end pipelines: data → modeling → evaluation → deployment
+- 🏢 Experience at Pegasystems & TCS delivering real-world AI solutions
+- 📈 Focused on improving system performance, scalability, and real-world impact
   
 ---
 
@@ -61,17 +61,11 @@
 ---
 
 # 🚀 Featured Projects
-### 🔹 **LLM Fine-Tuning for Dialogue Summarization**
-Fine-tuned **T5-small** on **SAMSum**, optimized inference latency by **25%**.
+### 🔹 **Multimodal RAG System for Document Q&A using LangChain**
+Built a multimodal RAG pipeline using CLIP and FAISS, increasing retrieval accuracy by 40% through visual context extraction.
 
-### 🔹 **Gender & Age Prediction**
-CNN on **UTKFace**, achieved **90% accuracy** for gender & MAE **6–8 yrs** for age.
-
-### 🔹 **AnimeSensei — AI Conversational System**
-RAG + LLaMA 70B + FAISS + automated web scraping + Streamlit UI.
-
-### 🔹 **Image Caption Generator**
-VGG16 + LSTM + BLEU evaluation + Streamlit app with TTS.
+### 🔹 **Computer Vision-Based Crowd Monitoring System**
+Implemented a real-time crowd estimation system using YOLO and OpenCV, reducing peak-time congestion by 30%.
 
 <!-- END YOUTUBE-CARDS -->
 
