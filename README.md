@@ -44,7 +44,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0EA5E9?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logo=graphql&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-14B8A6?style=for-the-badge&logo=protocols&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-14B8A6?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-FF6F61?style=for-the-badge&logo=pandas&logoColor=white)
