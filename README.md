@@ -19,7 +19,7 @@
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-sree-tolety/) 
-[![Github](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://github.com/Tolety-Jayasree/)
+[![Github](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=github&logoColor=white)](http://github.com/Tolety-Jayasree/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toletyjayasree@gmail.com)
 
 
