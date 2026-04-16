@@ -14,17 +14,28 @@
 
 ---
 
+## 🌐 Socials  
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🔭 Currently Working On
 - 🧠 Multimodal RAG systems (text + image understanding)  
 - ⚡ LLM response optimization & retrieval accuracy  
 - 🤖 Agentic AI workflows  
-
----
-
-## 🌐 Socials
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
-- 📧 Email: yourmail@example.com  
 
 ---
 
