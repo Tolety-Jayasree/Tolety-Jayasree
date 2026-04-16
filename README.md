@@ -73,28 +73,21 @@ VGG16 + LSTM + BLEU evaluation + Streamlit app with TTS.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DataScientist00&theme=dark&hide_border=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Tolety-Jayasree&theme=dark&hide_border=false&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=DataScientist00&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Tolety-Jayasree&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DataScientist00&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolety-Jayasree&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataScientist00&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tolety-Jayasree&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
-
-### 🎥 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Design an Machine Learning Recommendation Engine | System Design](https://ytcards.demolab.com/?id=pI3RamQdgdI&title=Design+an+Machine+Learning+Recommendation+Engine+%7C+System+Design&lang=en&timestamp=1766151691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "Design an Machine Learning Recommendation Engine | System Design")](https://www.youtube.com/watch?v=pI3RamQdgdI)
-[![End-to-End A/B Testing & Hypothesis Testing in Python | Data Science Project Kaggle | Scipy | Hindi](https://ytcards.demolab.com/?id=0jIOItqe0NY&title=End-to-End+A%2FB+Testing+%26+Hypothesis+Testing+in+Python+%7C+Data+Science+Project+Kaggle+%7C+Scipy+%7C+Hindi&lang=en&timestamp=1765451700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "End-to-End A/B Testing & Hypothesis Testing in Python | Data Science Project Kaggle | Scipy | Hindi")](https://www.youtube.com/watch?v=0jIOItqe0NY)
-[![Knowledge Distillation Tutorial | Teacher Student Model | Hindi MNIST | KL Divergence](https://ytcards.demolab.com/?id=chFw1xX_Nvc&title=Knowledge+Distillation+Tutorial+%7C+Teacher+Student+Model+%7C+Hindi+MNIST+%7C+KL+Divergence&lang=en&timestamp=1765104452&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "Knowledge Distillation Tutorial | Teacher Student Model | Hindi MNIST | KL Divergence")](https://www.youtube.com/watch?v=chFw1xX_Nvc)
-[![Data Scientist Interview Questions | Pandas + EDA + Linear Regression | 6 LPA | Hindi](https://ytcards.demolab.com/?id=8DyGVhG7Eb8&title=Data+Scientist+Interview+Questions+%7C+Pandas+%2B+EDA+%2B+Linear+Regression+%7C+6+LPA+%7C+Hindi&lang=en&timestamp=1763877611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5 "Data Scientist Interview Questions | Pandas + EDA + Linear Regression | 6 LPA | Hindi")](https://www.youtube.com/watch?v=8DyGVhG7Eb8)
 <!-- END YOUTUBE-CARDS -->
 
 
