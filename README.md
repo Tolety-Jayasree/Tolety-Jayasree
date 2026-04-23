@@ -8,7 +8,7 @@
 ---
 
 # 💫 About Me
-- 🚀 AI/ML Engineer with 3+ years of experience building production AI systems
+- 🚀 AI/ML Engineer with 3.5+ years of experience building production AI systems
 - 🤖 Specialized in LLMs, RAG architectures, and Agentic AI workflows
 - ⚡ Built scalable end-to-end pipelines: data → modeling → evaluation → deployment
 - 🏢 Experience at Pegasystems & TCS delivering real-world AI solutions
